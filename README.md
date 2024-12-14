@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">👋 Hi! I'm Lucas Tobias</h1>
+<h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
+<img align="right" alt="Coding" width="340px" height="500px" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 
-<!--
-**lucastbmp/lucastbmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as an **IT Assistent** at the **Brazilian Army**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently studying **Software Engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **lucasmarinari7@gmail.com**
+
+
+<h3 align="left">Connect with me!</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lucas-tobias" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+</p>
+
+<h3 align="left">Learning - Languages and Tools:</h3>
+<p align="left" width="400px"> 
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</p>
+
+
+<img align="center" width="100%" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
