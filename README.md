@@ -16,8 +16,9 @@
 
 <h3 align="left">Learning - Languages and Tools:</h3>
 <p align="left" width="400px"> 
-  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
 </p>
 
 
