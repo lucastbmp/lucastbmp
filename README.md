@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi! I'm Lucas Tobias</h1>
 <h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
-<img align="right" alt="Coding" width="340px" height="500px" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 
 - 🔭 I’m currently working as an **IT Assistent** at the **Brazilian Army**
 
