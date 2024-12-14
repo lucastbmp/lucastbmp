@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi! I'm Lucas Tobias</h1>
+<h1 align="center">👋 Hi! I'm Lucas</h1>
 <h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
 - 🔭 I’m currently working as an **IT Assistant** at the **Brazilian Army**
