@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lucasmarinari7@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Message me!</h3>
 <p align="left">
 </p>
 
