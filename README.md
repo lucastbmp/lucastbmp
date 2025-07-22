@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I have interest in building fullstack, scalable web applications. I enjoy working across multiple stacks, but lately my focus has been on JS. <br><br>• Currently working at Sigma Transports & Logistics, as am IT assistant.<br>• Actively building Nyro</p>
+<p align="left">I have interest in building fullstack, scalable web applications. I enjoy working across multiple stacks, but lately my focus has been on JS. <br><br>• Currently working at Sigma Transports & Logistics, as an IT assistant.<br>• Actively building Nyro</p>
 
 ###
 
