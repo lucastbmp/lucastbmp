@@ -1,4 +1,4 @@
-<h3 align="center">Hi! I am Lucas, SWE from Brazil</h3> ![til](https://github.com/user-attachments/assets/1559cfb6-2de2-47a4-91d2-08780e25d4a8](https://github.com/lucastbmp/images/blob/main/gif.gif)
+<h3 align="center">Hi! I am Lucas, SWE from Brazil</h3> ![gif](https://github.com/lucastbmp/images/raw/main/gif.gif)
 
 ###
 
