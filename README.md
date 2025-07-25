@@ -1,5 +1,5 @@
 <h3 align="center">Hi! I am Lucas, SWE from Brazil
-<img src="https://github.com/lucastbmp/images/raw/main/gif.gif" width="400">
+<img src="https://github.com/lucastbmp/images/raw/main/gif.gif" width="100">
 </h3>
 ###
 
