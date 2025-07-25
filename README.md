@@ -1,6 +1,8 @@
-<h3 align="center">Hi! I am Lucas, SWE from Brazil</h3> ![gif](https://github.com/lucastbmp/images/raw/main/gif.gif)
-
+<h3 align="center">Hi! I am Lucas, SWE from Brazil</h3>
 ###
+
+![til](https://github.com/lucastbmp/images/raw/main/gif.gif)
+
 
 <p align="left">I have interest in building fullstack, scalable web applications. I enjoy working across multiple stacks, but lately my focus has been on JS. <br><br>• Currently working at Sigma Transports & Logistics, as an IT assistant.<br>• Actively building Nyro</p>
 
