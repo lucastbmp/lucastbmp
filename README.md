@@ -36,13 +36,14 @@
 
 ###
 
-<h3 align="left">Contact</h3>
+<h3 align="left">Contact me!</h3>
 
 ###
 
 <div align="left">
+  <a href="https://linkedin.com/in/lucas-tobias" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
